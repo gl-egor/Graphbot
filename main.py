@@ -1,4 +1,4 @@
-import botbody as btbdy
+from src import botbody as btbdy
 
 
 class Bot:

@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 from bob_telegram_tools.bot import TelegramBot
-from globals import Graphs
+from src.globals import Graphs
 
 matplotlib.use('agg')
 
